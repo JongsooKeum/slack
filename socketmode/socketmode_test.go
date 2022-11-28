@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/slack-go/slack/slackevents"
+	"github.com/JongsooKeum/slack/slackevents"
 )
 
 const (
